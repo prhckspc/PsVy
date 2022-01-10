@@ -5,7 +5,7 @@ Im created just for fun :)
 <br>
 The installer can install and uninstall the program(releases).
 <br>
-Tested in Microsoft Windows 10 but install only for your own risk.
+Tested on Microsoft Windows 10 but install only for your own risk.
 <br>
 PsVy to Ubuntu on Snap Store:
 <br>
