@@ -7,6 +7,8 @@ The installer can install and uninstall the program(releases).
 <br>
 The release tested on Microsoft Windows 10 but you can install only for your own risk.
 <br>
+Before use the code check it.
+<br>
 PsVy to Ubuntu on Snap Store:
 <br>
 snap install --beta --devmode psvyu
